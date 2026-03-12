@@ -1,0 +1,8 @@
+python-telegram-bot==13.15
+requests
+pandas
+numpy
+scikit-learn
+Pillow
+Flask
+schedule
